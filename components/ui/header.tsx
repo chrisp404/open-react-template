@@ -18,7 +18,7 @@ export default function Header() {
 
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
-            {/* Desktop sign in links */}
+
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
